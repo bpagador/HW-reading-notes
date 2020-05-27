@@ -1,1 +1,3 @@
-# HW-reading-notes
+## HW Reading Notes
+- Foundation I and II
+- Career Track 
