@@ -109,4 +109,4 @@
         4. Safe play areas -- HOW?
         5. Additional resources -- HOW?
 
-* sourced from "Five Whys and Five Hows" excerpted from The Public Health Quality Improvement Handbook, ASQ Quality Press.
+* sourced from "Five Whys and Five Hows" excerpted from The Public Health Quality Improvement Handbook, ASQ Quality Press (https://asq.org/quality-resources/five-whys)
