@@ -25,7 +25,7 @@
 ```
 an example we went over with Ryan:
 
-const multiplybyTwo = int = int * 2
+const multiplybyTwo = int => int * 2
 const arrayOfInts = [1, 2, 3, 4]
 
 arrayOfInts.map(multiplyByTwo)
