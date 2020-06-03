@@ -31,7 +31,7 @@
     * Test again: if the patient's status was hospital-bound and should they reach the "ready to discharge" status, they could then be tested once again, for COVID and for anti-bodies, the results for COVID could either be positive (True) or negative (False)
         * False would lead to the patient being discharged
         * True would lead to the patient's data/process/status be tracked once again, starting at Results
-    * The contraints have mostly to do with how linear, data-tree like, the tracking information for each patient is. Each data piece following Patients info is reliant on the following data piece. 
+    * The contraints have mostly to do with how linear, data-tree like, the tracking information for each patient is. Each data piece following Patients info is reliant on the data piece that precedes it. 
 
 #### General Notes:
 * sql vs mongo db is a thing I guess!
