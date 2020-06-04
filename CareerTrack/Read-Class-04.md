@@ -3,7 +3,7 @@
 
 
 5. Describe how NoSQL Databases scale horizontally
-    * In order to handle the demands of a large, growing database, NoSQL horizontally scaled by adding multiple servers to the database -- each of those servers performing localized, specific, load-sharing roles. 
+    * In order to handle the demands of a large, growing database, NoSQL horizontally scales by adding multiple servers to the database -- each of those servers performing localized, specific, load-sharing roles. 
 
 6. Give one strong argument for and against NoSQL Databases
     * In favor: NoSQL can be the easiest, cheapest, most adaptable way to manage large and constantly evolving data. 
