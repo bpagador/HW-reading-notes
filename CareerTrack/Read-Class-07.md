@@ -4,7 +4,7 @@
     * auto-defined routes do something first
         * it will check for certain parameters, including request and response 
     * then pass it along to the next function
-        * once that layer is complete then the function will ask a questions and if true
+        * once that layer is complete then the function will ask a questions and if true:
     * (unless there are more layers of auth/functions) after which the event being handled executed 
 
 * Additional notes on Expres Middleware
